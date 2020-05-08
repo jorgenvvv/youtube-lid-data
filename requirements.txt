@@ -1,0 +1,5 @@
+numpy==1.18.1
+scikit-learn==0.22.1
+polyglot==16.7.4
+tqdm==4.42.1
+youtube-dl==2019.9.28
